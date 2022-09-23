@@ -1,0 +1,14 @@
+.home table thead th{
+    font-size: 15px;
+}
+.home tbody tr td{
+    font-size: 13px;
+    line-height: 33px;
+    padding-left: 10px;
+}
+.home .btn{
+    font-size: 13px;
+    height: 30px;
+    line-height: 16px;
+    margin-right: 10px;
+}
